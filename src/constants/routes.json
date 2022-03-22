@@ -1,5 +1,5 @@
 {
-  "HOME": "/shopping-cart",
-  "PRODUCTS": "/shopping-cart/products",
-  "CONTACT": "/shopping-cart/contact"
+  "HOME": "/reactEcommerceSite",
+  "PRODUCTS": "/reactEcommerceSite/products",
+  "CONTACT": "/reactEcommerceSite/contact"
 }
