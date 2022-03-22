@@ -12,7 +12,7 @@ const Contact = () => {
   return (
     <ContactWrapper>
       <SocialMedia>
-        <SocialLink href="https://github.com/michalosman" target="_blank">
+        <SocialLink href="https://github.com/moyzone" target="_blank">
           <FaGithub />
         </SocialLink>
         <SocialLink
@@ -34,7 +34,7 @@ const Contact = () => {
           <FaTwitter />
         </SocialLink>
         <SocialLink
-          href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          href="https://www.instagram.com/moyzone/"
           target="_blank"
         >
           <FaInstagram />
